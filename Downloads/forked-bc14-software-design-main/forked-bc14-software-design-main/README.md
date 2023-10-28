@@ -1,1 +1,0 @@
-# bc14-software-design
